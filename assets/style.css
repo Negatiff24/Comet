@@ -228,19 +228,19 @@ body{
 	position: absolute;
 }
 
-.core__tail.-red{
-	width: 30px;
-	background-color: #991e8e;
-	top: -200px;
-	left: 10px;
-}
-
 .core__tail.-blue{
 	right: 0;
 	width: 17px;
 	background-color: #72b1fd;
 	top: -215px;
 	left: 40px;
+}
+
+.core__tail.-red{
+	width: 30px;
+	background-color: #991e8e;
+	top: -200px;
+	left: 10px;
 }
 
 .core__tail.-red:before {
